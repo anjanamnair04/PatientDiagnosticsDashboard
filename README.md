@@ -1,8 +1,8 @@
  ## PATIENT DIAGNOSTICS DASHBOARD
- Link to dataset:https://docs.google.com/spreadsheets/d/1At5oV2Kugf06qazsliX44JKmcBefkOXH/edit?usp=sharing&ouid=112694921067958815816&rtpof=true&sd=true
+Link to dataset:https://docs.google.com/spreadsheets/d/1At5oV2Kugf06qazsliX44JKmcBefkOXH/edit?usp=sharing&ouid=112694921067958815816&rtpof=true&sd=true
 The Patient symptom dataset consisting of 19903 rows and 15 columns is the central fact table. It provides detailed information about each patient visit, including demographics, vital signs, symptoms, chronic condition indicators, and clinical outcomes.
  ## Objective
- Develop a patient diagnostic dashboard combining symptoms, chronic conditions, and visit patterns to support faster and clearer clinical insights.
+Develop a patient diagnostic dashboard combining symptoms, chronic conditions, and visit patterns to support faster and clearer clinical insights.
 ## What the Dashboard Helps With
 The dashboard enables healthcare professionals to:
 Spot possible fever or illness patterns
