@@ -1,4 +1,5 @@
  ## PATIENT DIAGNOSTICS DASHBOARD  
+### Link to Dashboard
 https://app.powerbi.com/view?r=eyJrIjoiMjU2MDVkYjQtMTIwMC00MWI2LTg2MTgtZTcyYWVjNjEyZDMwIiwidCI6ImFjODBkNDhiLWYzMTQtNDVlYi05NmM0LTIyYzk1Njc5ZTExOSJ9  
 Link to dataset:https://docs.google.com/spreadsheets/d/1At5oV2Kugf06qazsliX44JKmcBefkOXH/edit?usp=sharing&ouid=112694921067958815816&rtpof=true&sd=true  
 The Patient symptom dataset consisting of 19903 rows and 15 columns is the central fact table. It provides detailed information about each patient visit, including demographics, vital signs, symptoms, chronic condition indicators, and clinical outcomes.
